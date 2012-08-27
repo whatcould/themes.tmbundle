@@ -17,6 +17,10 @@
 				<string>#FFFFFFA6</string>
 				<key>foreground</key>
 				<string>#F8F8F8</string>
+				<key>gutterDivider</key>
+				<string>#0C1021</string>
+				<key>gutterSelectionBorder</key>
+				<string>#0C1021</string>
 				<key>invisibles</key>
 				<string>#FFFFFF40</string>
 				<key>lineHighlight</key>
